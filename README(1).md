@@ -41,10 +41,12 @@ Este projeto consiste na implementação do backend para uma loja de games, prop
 ## Relacionamento One to Many
 
 As classes Categoria e Produto possuem um relacionamento do tipo One to Many, garantindo que uma categoria pode conter vários produtos.
-Boas Práticas
+
+## Boas Práticas
 
 O projeto segue as boas práticas de desenvolvimento Spring, adotando uma estrutura de código organizada e modular, incluindo o uso de Model, Repository e Controller para manter a coesão e a clareza do código.
-Testes
+
+## Testes
 
 A API foi testada utilizando o Insomnia, garantindo que todas as funcionalidades foram implementadas corretamente e que a aplicação responde de acordo com as especificações.
 
