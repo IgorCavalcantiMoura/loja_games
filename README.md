@@ -7,7 +7,7 @@ Este projeto consiste na implementação do backend para uma loja de games, prop
 
 - Spring Framework: O projeto foi desenvolvido utilizando o Spring Framework, seguindo as melhores práticas recomendadas para garantir uma arquitetura robusta e escalável.
 
-- Banco de Dados: A aplicação utiliza um banco de dados para armazenar e gerenciar as informações dos produtos e categorias. A configuração do banco de dados pode ser encontrada no arquivo application.properties.
+- Banco de Dados: A aplicação utiliza o MySQL para armazenar e gerenciar as informações dos produtos e categorias. A configuração do banco de dados pode ser encontrada no arquivo application.properties.
 
 ## Funcionalidades Implementadas
 ### CRUD de Produto
