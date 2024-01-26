@@ -3,7 +3,7 @@
 
 
 # Backend para Loja de Games 🎮🕹️
-
+![Static Badge](https://img.shields.io/badge/EM%20DESENVOLVIMENTO%20-%20PROJETO%20EM%20ANDAMENTO)
 
 Este projeto consiste na implementação do backend para uma loja de games, proporcionando a manipulação eficiente dos dados dos produtos da loja. Os produtos estão organizados por categorias, permitindo uma gestão simplificada e intuitiva.
 
@@ -73,3 +73,5 @@ Observação: Certifique-se de ter o ambiente configurado corretamente e o banco
     Configure o banco de dados no arquivo application.properties.
     Execute a aplicação Spring Boot.
     Utilize o Insomnia para testar a API.
+
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/igor-cavalcanti-moura/)
