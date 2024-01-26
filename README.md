@@ -1,3 +1,6 @@
+![Loja de Games](https://github.com/IgorCavalcantiMoura/loja_games/blob/main/midia/Proj%20Loja%20de%20Games.png)
+
+
 
 # Backend para Loja de Games
 
