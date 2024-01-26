@@ -2,7 +2,8 @@
 
 
 
-# Backend para Loja de Games
+# Backend para Loja de Games 🎮🕹️![KevinSpencerZamboniGIF](https://github.com/IgorCavalcantiMoura/loja_games/assets/105571519/51f02054-7dbe-40fa-8d49-73aa75266f0c)
+
 
 Este projeto consiste na implementação do backend para uma loja de games, proporcionando a manipulação eficiente dos dados dos produtos da loja. Os produtos estão organizados por categorias, permitindo uma gestão simplificada e intuitiva.
 
