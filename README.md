@@ -9,7 +9,7 @@ Este projeto consiste na implementação do backend para uma loja de games, prop
 ## Tecnologias Utilizadas
 
 - Spring Framework: O projeto foi desenvolvido utilizando o Spring Framework, seguindo as melhores práticas recomendadas para garantir uma arquitetura robusta e escalável.
-
+- Spring Security: A camada de segurnaça foi desenvolvida utilizando o Spring Security, fornece suporte para autenticação por meio de diferentes métodos, como login com nome de usuário e senha, autenticação baseada em token, autenticação com certificados, etc.
 - Banco de Dados: A aplicação utiliza o MySQL para armazenar e gerenciar as informações dos produtos e categorias. A configuração do banco de dados pode ser encontrada no arquivo application.properties.
 
 ## Funcionalidades Implementadas
@@ -40,6 +40,18 @@ Este projeto consiste na implementação do backend para uma loja de games, prop
 - Remover Categoria: Endpoint para excluir uma categoria do sistema.
 
 - Listar Produtos por Categoria: Recurso que lista todos os produtos pertencentes a uma categoria específica.
+
+### CRUD de Usuário
+
+- Cadastrar Usuário: Endpoint para cadastrar um novo usuário Admin. na loja.
+
+- Buscar Usuário por ID: Recurso para obter as informações de um Usuário específico com base no seu ID.
+
+- Listar Todas os Usuários: Endpoint para listar todas os Usuários disponíveis na loja.
+
+- Atualizar Usuário: Permite a atualização dos dados de um usuário existente na loja.
+
+- Listar Produtos por Usuário: Recurso que lista todos os produtos pertencentes a um usuário específico.
 
 ## Relacionamento One to Many
 
